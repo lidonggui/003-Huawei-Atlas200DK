@@ -1,4 +1,4 @@
-**All This From Gitee/Atlas200DK**
+**All This Are From Gitee/Atlas200DK**
 
 # sample-HardwareExpansion-Atlas200DK
 
